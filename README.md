@@ -32,7 +32,7 @@ Using React Fast Food is simple:
 - Proceed to checkout and provide delivery details.
 - Track your order's status as it's being prepared and delivered.
 
-- You can try out the live version of React Fast Food [here].
+- You can try out the live version of React Fast Food [here](https://my-fast-food-app.vercel.app/).
 
 ## Contributing
 
