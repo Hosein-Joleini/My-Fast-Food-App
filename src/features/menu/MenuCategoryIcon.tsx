@@ -13,7 +13,7 @@ export default function MenuCategoryIcon({
     <li>
       <NavLink
         to={`#${iconTitle.toLowerCase()}`}
-        className={`px-2 py-4 flex flex-col items-center gap-2 ${
+        className={`px-2 pt-4 flex flex-col items-center gap-2 ${
           location.hash === `#${iconTitle.toLowerCase()}`
             ? 'after:content[] after:w-full after:block after:h-1 after:bg-gray-500'
             : ''
